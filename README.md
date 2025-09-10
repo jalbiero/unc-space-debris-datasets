@@ -1,1 +1,29 @@
-# unc-space-debris-datasets
+# Mentoría - Space Debris
+
+`UNC - Diplomatura en Ciencia de Datos, Aprendizaje de Automático y sus Aplicaciones`
+
+Datasets para TP3 (Aprendizaje Supervisado y/o No Supervisado).
+
+## Columnas
+
+- PERIOD
+- INCLINATION
+- APOGEE
+- PERIGEE
+- LAUNCH_YEAR
+- CURRENT
+- EXPECTED_LIFETIME_YRS
+- LAUNCH_MASS_KG
+- TIME_IN_ORBIT
+- COUNTRY_GROUPED_CIS
+- COUNTRY_GROUPED_PRC
+- COUNTRY_GROUPED_REST
+- COUNTRY_GROUPED_UK
+- COUNTRY_GROUPED_US
+- PURPOSE_COMMUNICATIONS
+- PURPOSE_EARTH_OBSERVATION
+- PURPOSE_OTHER
+- PURPOSE_TECHNOLOGY_DEVELOPMENT
+- RCS_SIZE_ENC
+- CLASS_OF_ORBIT_ENC
+
