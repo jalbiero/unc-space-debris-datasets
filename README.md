@@ -6,6 +6,12 @@ Datasets para TP3 (Aprendizaje Supervisado y/o No Supervisado).
 
 ## Columnas
 
+- INFO_SATNAME
+- INFO_NORAD_NUMBER
+- INFO_OBJECT_TYPE
+- INFO_TYPE_OF_ORBIT
+- INFO_COUNTRY
+- INFO_CLASS_OF_ORBIT
 - PERIOD
 - INCLINATION
 - APOGEE
